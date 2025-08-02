@@ -5,11 +5,10 @@ A passionate **Full Stack Engineer**, currently focusing on development and tran
 ---
 
 ## About Me
-- Currently exploring Full Stack Engineering with a focus on scalable and modern solutions  
-- Keen interest in Web3 & Blockchain technologies  
-- Ask me about MERN stack, SQL/NoSQL databases, TypeScript, ORMs, and backend architecture  
-- Reach me at: rajpurohitnikhil008@gmail.com  
-- I enjoy building projects that bridge real-world problems with tech innovation  
+- Currently exploring Full Stack software development.
+- Keen interest in Web3.
+- mail ID: rajpurohitnikhil008@gmail.com  
+
 
 ---
 
