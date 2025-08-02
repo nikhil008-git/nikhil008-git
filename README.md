@@ -55,10 +55,10 @@ A passionate **Full Stack Engineer** from India 🇮🇳, currently diving deep 
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil008-git&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil008-git&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil008-git&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)  
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil008-git&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,python&langs_count=8)
+
 
 ## 📌 Vision
 ⚡ Building innovative **full stack applications**  
