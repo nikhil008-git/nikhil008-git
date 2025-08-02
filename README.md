@@ -57,7 +57,17 @@ A passionate **Full Stack Engineer** from India 🇮🇳, currently diving deep 
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil008-git&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil008-git&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,python&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil008-git&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css&langs_count=8)
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Backend & Full-Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?s)
+
 
 
 ## 📌 Vision
