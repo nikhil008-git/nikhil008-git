@@ -6,7 +6,7 @@ A passionate **Full Stack Engineer**, currently focusing on development and tran
 
 ## About Me
 - Currently exploring Full Stack software development.
-- Keen interest in Web3.
+- Keen interest in Web3
 - mail ID: rajpurohitnikhil008@gmail.com  
 
 
