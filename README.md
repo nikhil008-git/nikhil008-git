@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Rajpurohit  
 
-A passionate **Full Stack Engineer**, currently focusing on development and transitioning into **Web3 development**.  
+A third year engineering guy who is passionate **Full Stack Engineer**, currently focusing on development and transitioning into **Web3 development**.  
 
 ---
 
