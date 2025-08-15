@@ -5,6 +5,7 @@ A third year engineering guy who is passionate **Full Stack Engineer**, currentl
 ---
 
 ## About Me
+- not a Vibe Coder⚠️
 - Currently exploring Full Stack software development.
 - Keen interest in Web3
 - mail ID: rajpurohitnikhil008@gmail.com  
