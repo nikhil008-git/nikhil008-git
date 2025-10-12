@@ -58,5 +58,4 @@ A third year engineering guy who is passionate **Full Stack Engineer**, currentl
 ## Vision
 - Building innovative full stack applications  
 - Transitioning into Web3 development  
-- Combining backend systems with blockchain technology
 
