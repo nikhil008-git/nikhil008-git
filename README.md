@@ -5,7 +5,7 @@ A third-year engineering student passionate about **Full Stack Engineering**.
 ---
 
 ## About Me
-- Currently exploring Full Stack software development.
+- Full Stack software developer
 - 📧 Email: rajpurohitnikhil008@gmail.com  
 
 ---
@@ -50,4 +50,4 @@ A third-year engineering student passionate about **Full Stack Engineering**.
 ---
 
 ## Vision
-- Building innovative full stack applications with modern technologies like TypeScript, Next.js, Prisma, Docker, WebSockets, and more.
+- path to open source would be beautiful
