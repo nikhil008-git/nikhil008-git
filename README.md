@@ -63,4 +63,4 @@ A third-year engineering student passionate about **Full Stack Engineering**.
 ---
 
 ## Vision
-My path is to contribute to **Open Source**, build **modern scalable applications**, and constantly learn new technologies in **Full Stack and Cloud Development**.
+My path is to contribute to **Open Source**, build **modern scalable applications**, and constantly learn new technologies in **Full Stack**.
