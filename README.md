@@ -4,7 +4,7 @@ A third-year engineering student passionate about **Full Stack Engineering**.
 ---
 
 ## About Me
-- Full Stack Software Developer  
+- Full Stack Software Developer
 - 📧 Email: rajpurohitnikhil008@gmail.com  
 - 🔗 [X](https://x.com/nick_realm_01)  |  [LinkedIn](https://www.linkedin.com/in/nikhil-rajpurohit-05b39734a/)
 
