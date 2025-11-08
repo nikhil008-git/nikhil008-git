@@ -64,3 +64,5 @@ A third-year engineering student passionate about **Full Stack Engineering**.
 
 ## Vision
 My path is to contribute to **Open Source**, build **modern scalable applications**, and constantly learn new technologies in **Full Stack**.
+
+[![An image of @nikhil008git's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhil008git)](https://holopin.io/@nikhil008git)
