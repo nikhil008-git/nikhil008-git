@@ -4,7 +4,7 @@ A **Full Stack Engineer** passionate about building scalable and modern web appl
 ---
 
 ## About Me
-- Full Stack Software Developer
+- Full Stack Engineer
 - 📧 Email: rajpurohitnikhil008@gmail.com  
 - 🔗 [Connect on X](https://x.com/nick_realm_01) | [LinkedIn](https://www.linkedin.com/in/nikhil-rajpurohit-05b39734a/)
 
