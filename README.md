@@ -19,6 +19,7 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
+![Next.js](https://img.shields.io/badge/Next.js%20(Server)-000000?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
