@@ -55,7 +55,7 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nikhil008-git&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=nikhil008-git&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 Hustling every day to become a better developer 
