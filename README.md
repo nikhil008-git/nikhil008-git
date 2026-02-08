@@ -56,11 +56,6 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 ## GitHub Stats
 
 ![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil008-git&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhil008-git&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil008-git&layout=compact&theme=tokyonight)
-
 ---
 
 ## Philosophy
