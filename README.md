@@ -57,8 +57,9 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 
 Actively contributing to open source through bug fixes, feature additions, and documentation.
 
--  Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git
 -  Merged Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git+is:merged
 -  Issues Opened → https://github.com/issues?q=is:issue+author:nikhil008-git
+-  Opened Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git
+
 
 Hustling every day to become a better developer 
