@@ -53,8 +53,12 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
 
 ---
-## GitHub Stats
+## Open Source Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nikhil008-git&theme=tokyonight&hide_border=true)
+Actively contributing to open source through bug fixes, feature additions, and documentation.
+
+-  Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git
+-  Merged Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git+is:merged
+-  Issues Opened → https://github.com/issues?q=is:issue+author:nikhil008-git
 
 Hustling every day to become a better developer 
