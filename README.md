@@ -59,7 +59,6 @@ Actively contributing to open source through bug fixes, feature additions, and d
 
 -  Merged Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git+is:merged
 -  Issues Opened → https://github.com/issues?q=is:issue+author:nikhil008-git
--  Opened Pull Requests → https://github.com/pulls?q=is:pr+author:nikhil008-git
 
 
 Hustling every day to become a better developer 
