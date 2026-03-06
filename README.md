@@ -27,6 +27,10 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 
+### Real-Time Communication
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge)
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
