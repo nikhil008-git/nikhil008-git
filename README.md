@@ -27,7 +27,7 @@ A **Full Stack Engineer** passionate about building scalable, modern web applica
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 
-### Real-Time Communication
+### Real-Time 
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio)
 ![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc)
 
