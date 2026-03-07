@@ -1,10 +1,10 @@
 # Hi, I'm Nikhil Rajpurohit 
-A **Full Stack Engineer** passionate about building scalable, modern web applications.
+A **Software Engineer** passionate about building scalable, modern web applications.
 
 ---
 
 ## About Me
-- Full Stack Engineer  
+- Software Engineer  
 - Focused on performance, scalability & clean architecture  
 - 📧 Email: **rajpurohitnikhil008@gmail.com**
 
