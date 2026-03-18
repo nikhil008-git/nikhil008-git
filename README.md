@@ -6,7 +6,7 @@ A **Software Engineer** passionate about building scalable, modern web applicati
 ## About Me
 - Software Engineer  
 - Focused on performance, scalability & clean architecture  
-- 📧 Email: **rajpurohitnikhil008@gmail.com**
+- Email: **rajpurohitnikhil008@gmail.com**
 
 ---
 
