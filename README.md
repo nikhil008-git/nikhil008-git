@@ -1,5 +1,5 @@
 # Hi, I'm Nikhil Rajpurohit 
-A **Software Engineer** passionate about building scalable, modern web applications.
+A **Full-Stack Engineer** passionate about building scalable, modern web applications.
 
 ---
 
