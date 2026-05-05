@@ -19,7 +19,8 @@ A **Full-Stack Engineer** passionate about building scalable, modern web applica
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
+![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
@@ -42,6 +43,7 @@ A **Full-Stack Engineer** passionate about building scalable, modern web applica
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
