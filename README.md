@@ -1,4 +1,5 @@
-# heyy hi, I’m Nikhil. Shipping till YC happens.
+# Hi, I’m Nikhil. 
+Shipping till YC happens.
 
 ---
 
