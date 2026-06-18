@@ -1,13 +1,7 @@
-# Hi, I’m Nikhil. 
-Shipping till YC happens.
+### nikhil rajpurohit
 
----
+product engineer · pune, india
 
-## About Me
-- Product Engineer  
-- I work across full stack and into the applied AI layer; turning models into experiences people genuinely reach for. 
-- Email: **rajpurohitnikhil008@gmail.com**
-  
----
+building products that think.
 
-Hustling every day to become a better developer 
+[portfolio](https://nikhilwho.in) · [email](mailto:rajpurohitnikhil008@gmail.com)
