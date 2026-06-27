@@ -4,7 +4,7 @@ a Software Engineer based in Pune, India, building products end-to-end. I work a
 
 Reach me at [email](mailto:rajpurohitnikhil008@gmail.com) or [book a call](https://cal.com/nikhilrajpurohit) | see my code & contributions on [GitHub](https://github.com/nikhil008-git)
 
-Find me on [LinkedIn](https://www.linkedin.com/in/nikhil-rajpurohit-05b39734a/), [Twitter / X](https://x.com/nick_realm_01/), read my writing on [Medium](https://medium.com/@rajpurohitnikhil008), check out my [portfolio](https://nikhilwho.in/), or grab my [resume](https://drive.google.com/drive/folders/15JdsT00mjrbTkErQUaDH_wh5pzP0l8v4).
+Find me on [LinkedIn](https://www.linkedin.com/in/nikhil-rajpurohit-05b39734a/), [Twitter / X](https://x.com/nick_realm_01/), check out my [portfolio](https://nikhilwho.in/), or grab my [resume](https://drive.google.com/drive/folders/15JdsT00mjrbTkErQUaDH_wh5pzP0l8v4).
 
 ---
 
