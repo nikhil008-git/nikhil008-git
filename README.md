@@ -9,5 +9,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/nikhil-rajpurohit-05b39734a/),
 ---
 
 Hustling every day to become a better developer 
-- name: contribution-to-3d-grass
-  uses: nrysk/cgrass@v1.0.0
+
