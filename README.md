@@ -1,8 +1,5 @@
-Hi, I'm Nikhil Rajpurohit.
-more about me on [portfolio](https://nikhilwho.in/)
+# Hi, I'm Nikhil Rajpurohit
 
-Reach me at [email](mailto:rajpurohitnikhil008@gmail.com)
----
+improving every day.
 
-Hustling every day to become a better developer 
-
+[Portfolio](https://nikhilwho.in/) · [Email](mailto:rajpurohitnikhil008@gmail.com)
