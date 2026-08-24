@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Rajpurohit
+Hi, I'm Nikhil Rajpurohit
 
 improving every day.
 
