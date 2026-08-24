@@ -2,6 +2,6 @@ Hi, I'm Nikhil Rajpurohit
 
 improving every day.
 
-[Portfolio](https://nikhilwho.in/) 
+check this fs fs [Portfolio](https://nikhilwho.in/) 
 
-[Email](mailto:rajpurohitnikhil008@gmail.com) 
+
